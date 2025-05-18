@@ -2,33 +2,34 @@
 
 This project focuses on customer segmentation for TravelTide, a fictional travel booking platform. The goal is to group customers into meaningful segments using data exploration and unsupervised machine learning, supporting better marketing and loyalty strategies.
 
-## 📁 Project Structure
+## Project Structure
 
 TravelTide/
+
 ├── Data/
 │   ├── session_based_eda.csv
 │   ├── traveltide_cleaned_cohort_selection.csv
 │   ├── traveltide_cohort_preprocessed.csv
 │   └── traveltide_cohort_clusters.csv
-│
+
 ├── SQL/
 │   └── traveltide_cleaned_chort_selection.sql 
-│
-├── Models/                                              # Saved clustering models
+
+├── Models/
 │   ├── dbscan_model.pkl
 │   └── kmeans_model.pkl
-│
-├── Notebooks/                                           # Analysis and modeling notebooks
+
+├── Notebooks/
 │   ├── TravelTide_Clustering.ipynb
 │   ├── TravelTide_Cohort_EDA.ipynb
 │   ├── TravelTide_Customer_Segmentation_Perks.ipynb
 │   ├── TravelTide_Preprocessing.ipynb
 │   └── TravelTide_Sessions_EDA.ipynb
-│
-├── Presentation/                                        # Final project deliverables
+
+├── Presentation/                                        
 │   ├── TravelTide Customer Segmentation Slides.pptx
 │   └── TravelTide Customer Segmentation Report.pdf
-│
+
 ├── traveltide_cleaned_chort_selection.sql
 └── README.md
 
