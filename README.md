@@ -81,5 +81,7 @@ README.md
 ## Author
 
 Dido De Boodt
+
 Aspiring Data Analyst and Scientist
+
 LinkedIn: https://www.linkedin.com/in/dido-de-boodt/
