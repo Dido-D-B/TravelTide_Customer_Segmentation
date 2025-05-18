@@ -28,14 +28,19 @@ Models/
 Notebooks/
 
    ├── TravelTide_Clustering.ipynb
+   
    ├── TravelTide_Cohort_EDA.ipynb
+   
    ├── TravelTide_Customer_Segmentation_Perks.ipynb
+   
    ├── TravelTide_Preprocessing.ipynb
+   
    └── TravelTide_Sessions_EDA.ipynb
 
 Presentation/ 
 
    ├── TravelTide Customer Segmentation Slides.pptx
+   
    └── TravelTide Customer Segmentation Report.pdf
 
 README.md
