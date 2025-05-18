@@ -7,7 +7,9 @@ This project focuses on customer segmentation for TravelTide, a fictional travel
 TravelTide/
 
 ├── Data/
+
 │   ├── session_based_eda.csv
+
 │   ├── traveltide_cleaned_cohort_selection.csv
 │   ├── traveltide_cohort_preprocessed.csv
 │   └── traveltide_cohort_clusters.csv
