@@ -8,11 +8,13 @@ TravelTide/
 
 ├── Data/
 
-│   ├── session_based_eda.csv
+   ├── session_based_eda.csv
 
-│   ├── traveltide_cleaned_cohort_selection.csv
-│   ├── traveltide_cohort_preprocessed.csv
-│   └── traveltide_cohort_clusters.csv
+   ├── traveltide_cleaned_cohort_selection.csv
+   
+   ├── traveltide_cohort_preprocessed.csv
+   
+   └── traveltide_cohort_clusters.csv
 
 ├── SQL/
 │   └── traveltide_cleaned_chort_selection.sql 
