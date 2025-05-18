@@ -5,6 +5,7 @@ This project focuses on customer segmentation for TravelTide, a fictional travel
 ## Project Structure
 
 TravelTide/
+
 ── Data/
 
    ├── session_based_eda.csv
