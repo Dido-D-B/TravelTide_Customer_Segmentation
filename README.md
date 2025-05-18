@@ -6,7 +6,7 @@ This project focuses on customer segmentation for TravelTide, a fictional travel
 
 TravelTide/
 
-── Data/
+Data/
 
    ├── session_based_eda.csv
 
@@ -16,25 +16,29 @@ TravelTide/
    
    └── traveltide_cohort_clusters.csv
 
-── SQL/
+SQL/
+
    └── traveltide_cleaned_chort_selection.sql 
 
-── Models/
+Models/
+
    ├── dbscan_model.pkl
    └── kmeans_model.pkl
 
-── Notebooks/
+Notebooks/
+
    ├── TravelTide_Clustering.ipynb
    ├── TravelTide_Cohort_EDA.ipynb
    ├── TravelTide_Customer_Segmentation_Perks.ipynb
    ├── TravelTide_Preprocessing.ipynb
    └── TravelTide_Sessions_EDA.ipynb
 
-── Presentation/                                        
+Presentation/ 
+
    ├── TravelTide Customer Segmentation Slides.pptx
    └── TravelTide Customer Segmentation Report.pdf
 
-── README.md
+README.md
 
 ## Summary
 
