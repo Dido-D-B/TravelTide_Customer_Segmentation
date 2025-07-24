@@ -4,47 +4,29 @@ This project focuses on customer segmentation for TravelTide, a fictional travel
 
 ## Project Structure
 
+```bash
 TravelTide/
-
 Data/
-
    ├── session_based_eda.csv
-
    ├── traveltide_cleaned_cohort_selection.csv
-   
    ├── traveltide_cohort_preprocessed.csv
-   
    └── traveltide_cohort_clusters.csv
-
 SQL/
-
    └── traveltide_cleaned_chort_selection.sql 
-
 Models/
-
    ├── dbscan_model.pkl
-   
    └── kmeans_model.pkl
-
 Notebooks/
-
-   ├── TravelTide_Clustering.ipynb
-   
-   ├── TravelTide_Cohort_EDA.ipynb
-   
-   ├── TravelTide_Customer_Segmentation_Perks.ipynb
-   
-   ├── TravelTide_Preprocessing.ipynb
-   
+   ├── TravelTide_Clustering.ipynb 
+   ├── TravelTide_Cohort_EDA.ipynb  
+   ├── TravelTide_Customer_Segmentation_Perks.ipynb 
+   ├── TravelTide_Preprocessing.ipynb 
    └── TravelTide_Sessions_EDA.ipynb
-
 Presentation/ 
-
-   ├── TravelTide Customer Segmentation Slides.pptx
-   
+   ├── TravelTide Customer Segmentation Slides.pptx  
    └── TravelTide Customer Segmentation Report.pdf
-
 README.md
+```
 
 ## Summary
 
@@ -64,7 +46,7 @@ README.md
   - Single Adventurers
 - Each segment informed a unique loyalty perk or recommendation
 - Presented findings in a slide deck and written report with Executive Summary and Detailed Report
-- Tableau EDA Dashboard: https://public.tableau.com/app/profile/dido.de.boodt/viz/TravelTide_EDA_Dashboards/TravelTideEDADashboard
+- [Tableau EDA Dashboard](https://public.tableau.com/app/profile/dido.de.boodt/viz/TravelTide_EDA_Dashboards/TravelTideEDADashboard)
 
 ## How to Use
 
@@ -80,8 +62,5 @@ README.md
 
 ## Author
 
-Dido De Boodt
-
+[Dido De Boodt](https://www.linkedin.com/in/dido-de-boodt/)
 Aspiring Data Analyst and Scientist
-
-LinkedIn: https://www.linkedin.com/in/dido-de-boodt/
