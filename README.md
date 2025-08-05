@@ -1,3 +1,6 @@
+
+<img width="1162" height="651" alt="Screenshot 2025-08-05 at 15 28 28" src="https://github.com/user-attachments/assets/96f1a852-7b96-4efd-bd5c-18988584ca88" />
+
 # TravelTide Customer Segmentation Project
 
 This project focuses on customer segmentation for TravelTide, a fictional travel booking platform. The goal is to group customers into meaningful segments using data exploration and unsupervised machine learning, supporting better marketing and loyalty strategies.
@@ -40,13 +43,11 @@ README.md
 
 ## Highlights
 
-- Identified 6 distinct customer segments using K-Means Clustering:
-  - Business Travelers
-  - Senior Couples
-  - Single Adventurers
+- Identified 6 distinct customer segments using K-Means Clustering
 - Each segment informed a unique loyalty perk or recommendation
-- Presented findings in a slide deck and written report with Executive Summary and Detailed Report
-- [Tableau EDA Dashboard](https://public.tableau.com/app/profile/dido.de.boodt/viz/TravelTide_EDA_Dashboards/TravelTideEDADashboard)
+- Presented findings in a [slide deck](http://github.com/Dido-D-B/TravelTide_Customer_Segmentation/blob/main/Presentation/TravelTide%20Customer%20Segmentation%20Slides.pdf) and written [report](https://github.com/Dido-D-B/TravelTide_Customer_Segmentation/blob/main/Presentation/TravlTide%20Customer%20Segmentation%20Report.pdf) with Executive Summary and Detailed Report
+- Created a [Tableau EDA Dashboard](https://public.tableau.com/app/profile/dido.de.boodt/viz/TravelTide_EDA_Dashboards/TravelTideEDADashboard)
+
 
 ## How to Use
 
